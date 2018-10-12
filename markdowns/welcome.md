@@ -31,7 +31,7 @@ A variety of fraud detection functionalities remain involved in the fraud analyt
 The tools should be able to perform repeated tests on the data at any time just to ensure that there will be no amiss. In this way, threats can be identified quickly and efficiently. With effective fraud analytics and identity management capabilities.
 ### 7). Technologies Support
 Your data analytics tool must support the latest tools and technologies, especially those that are important for your organization. Here, one most important one is the A/B testing that is also known as the bucket or split testing, in this testing two webpage versions are compared to determine the performance of a better page. Here both the versions are compared on the basis in which user interacts with the webpage and then the best one is considered. 
-Moreover, as far as technical support is concerned then your tool must be able to integrate with Hadoop, that is a set of open-source programs that can work as the backbone of data-analytics activities. Hadoop mainly involves the following four modules with which integration is expected:
+Moreover, as far as technical support is concerned then your tool must be able to integrate with [Hadoop](https://www.janbasktraining.com/hadoop-big-data-analytics), that is a set of open-source programs that can work as the backbone of data-analytics activities. Hadoop mainly involves the following four modules with which integration is expected:
 - **MapReduce**: It can read data from a file system that can be interpreted in the visualized manner.
 - **Hadoop Common**: For this, Java tool collection may be required to read data stored in the user’s file system.
 - **YARN**: It is responsible to manage system resources so that data can be stored and analysis can be performed
@@ -42,7 +42,7 @@ Most of the data analytics tools are involved in adjusting data analytics model 
 ### 9). Scalability 
 Data will not the same all the times but it will grow as your organization is growing. With big data tools, this is always easy to scale-up as soon as new data is collected for the company and it can be analyzed well as expected. Also, the meaningful insights driven from data is pushed or integrated into the previous data successfully.
 ### 10). Quick Integrations
-With integration capabilities, this is always easy to share data results with developers and data scientists. Big data tools always support the quick integration with cloud apps, data warehouses, other databases etc.
+With integration capabilities, this is always easy to share data results with developers and [data scientists](https://www.janbasktraining.com/blog/become-successful-data-scientist/). Big data tools always support the quick integration with cloud apps, data warehouses, other databases etc.
 #### Conclusion:
 Hope it might be clear so far that what features should be included in data analytics tools and where your business should focus on? Just make sure that the tool that you select possesses all of these features along with other required ones to support organizational decision-making teams and business results too.
 
