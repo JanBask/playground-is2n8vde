@@ -32,10 +32,10 @@ The tools should be able to perform repeated tests on the data at any time just 
 ### 7). Technologies Support
 Your data analytics tool must support the latest tools and technologies, especially those that are important for your organization. Here, one most important one is the A/B testing that is also known as the bucket or split testing, in this testing two webpage versions are compared to determine the performance of a better page. Here both the versions are compared on the basis in which user interacts with the webpage and then the best one is considered. 
 Moreover, as far as technical support is concerned then your tool must be able to integrate with Hadoop, that is a set of open-source programs that can work as the backbone of data-analytics activities. Hadoop mainly involves the following four modules with which integration is expected:
-●	MapReduce: It can read data from a file system that can be interpreted in the visualized manner.
-●	Hadoop Common: For this, Java tool collection may be required to read data stored in the user’s file system.
-●	YARN: It is responsible to manage system resources so that data can be stored and analysis can be performed
-●	Distributed File System: It allows data to be stored in an easy format. 
+- **MapReduce**: It can read data from a file system that can be interpreted in the visualized manner.
+- **Hadoop Common**: For this, Java tool collection may be required to read data stored in the user’s file system.
+- **YARN**: It is responsible to manage system resources so that data can be stored and analysis can be performed
+- **Distributed File System**: It allows data to be stored in an easy format. 
 If the results of tools will be integrated with these Hadoop modules then the user can easily send the results to the user system. In this way flexibility, interoperability and both way communication can be ensured between organizations.
 ### 8). Version Control
 Most of the data analytics tools are involved in adjusting data analytics model parameters. But it may cause problems when pushed into production. Version control feature of big analytics tools will surely improve the capabilities to track changes and it is able to release previous versions too whenever needed.
